@@ -1,0 +1,13 @@
+# Ejecutables compilados
+programs/payment-processing
+
+# Archivos compilados COBOL
+*.exe
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
